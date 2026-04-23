@@ -6,7 +6,6 @@
 
 | | |
 | :--- | :--- |
-| ✉️ | [ahmadbaniamra@gmail.com](mailto:ahmadbaniamra@gmail.com) |
 | 🔗 | [LinkedIn Profile](https://www.linkedin.com/in/ahmad-bani-amer-9329a237b) |
 | 🎓 | Learned C++ basics from [Programming Advices](https://programmingadvices.com) |
 
